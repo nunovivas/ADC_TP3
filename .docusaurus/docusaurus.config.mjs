@@ -4,19 +4,20 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "My Site",
-  "tagline": "Dinosaurs are cool",
+  "title": "Site de exemplo",
+  "tagline": "Disciplina de ADC",
   "favicon": "img/favicon.ico",
-  "url": "https://your-docusaurus-test-site.com",
-  "baseUrl": "/",
-  "organizationName": "facebook",
-  "projectName": "docusaurus",
+  "url": "https://github.com",
+  "baseUrl": "/doku/",
+  "organizationName": "UALG",
+  "projectName": "do-doku",
+  "deploymentBranch": "gh-pages",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "i18n": {
-    "defaultLocale": "en",
+    "defaultLocale": "pt",
     "locales": [
-      "en"
+      "pt"
     ],
     "path": "i18n",
     "localeConfigs": {}
@@ -26,7 +27,7 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "/home/masaleiro/Code/UAlg/docusaurus-ghpages/sidebars.js",
+          "sidebarPath": "/Users/nunovivas/Documents/Universidade/ADC/doku/sidebars.js",
           "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
         },
         "blog": {
@@ -34,7 +35,7 @@ export default {
           "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
         },
         "theme": {
-          "customCss": "/home/masaleiro/Code/UAlg/docusaurus-ghpages/src/css/custom.css"
+          "customCss": "/Users/nunovivas/Documents/Universidade/ADC/doku/src/css/custom.css"
         }
       }
     ]
