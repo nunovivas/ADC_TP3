@@ -11,33 +11,8 @@
           "mainDocId": "intro",
           "docs": [
             {
-              "id": "faturas/congratulations",
-              "path": "/Docusaurus/docs/faturas/congratulations",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "faturas/create-a-blog-post",
-              "path": "/Docusaurus/docs/faturas/create-a-blog-post",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "faturas/create-a-document",
-              "path": "/Docusaurus/docs/faturas/create-a-document",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "faturas/create-invoice",
               "path": "/Docusaurus/docs/faturas/create-invoice",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "faturas/deploy-your-site",
-              "path": "/Docusaurus/docs/faturas/deploy-your-site",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "faturas/markdown-features",
-              "path": "/Docusaurus/docs/faturas/markdown-features",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -46,43 +21,8 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial/congratulations",
-              "path": "/Docusaurus/docs/tutorial/congratulations",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tutorial/create-a-blog-post",
-              "path": "/Docusaurus/docs/tutorial/create-a-blog-post",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tutorial/create-a-document",
-              "path": "/Docusaurus/docs/tutorial/create-a-document",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tutorial/create-a-page",
-              "path": "/Docusaurus/docs/tutorial/create-a-page",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tutorial/deploy-your-site",
-              "path": "/Docusaurus/docs/tutorial/deploy-your-site",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tutorial/markdown-features",
-              "path": "/Docusaurus/docs/tutorial/markdown-features",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "/category/super-carros---faturas",
               "path": "/Docusaurus/docs/category/super-carros---faturas",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "/category/tutorial",
-              "path": "/Docusaurus/docs/category/tutorial",
               "sidebar": "tutorialSidebar"
             }
           ],

@@ -89,10 +89,10 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Intro',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Introducao',
                 to: '/docs/intro',
               },
             ],

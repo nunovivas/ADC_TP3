@@ -17,11 +17,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Create a Blog Post",
-    "permalink": "/Docusaurus/docs/faturas/create-a-blog-post"
+    "title": "Criar uma fatura",
+    "permalink": "/Docusaurus/docs/faturas/create-invoice"
   },
   "next": {
-    "title": "Deploy your site",
-    "permalink": "/Docusaurus/docs/faturas/deploy-your-site"
+    "title": "Tutorial",
+    "permalink": "/Docusaurus/docs/category/tutorial"
   }
 }

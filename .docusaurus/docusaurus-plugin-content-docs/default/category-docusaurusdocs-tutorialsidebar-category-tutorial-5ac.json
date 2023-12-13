@@ -5,8 +5,8 @@
   "permalink": "/Docusaurus/docs/category/tutorial",
   "navigation": {
     "previous": {
-      "title": "Congratulations!",
-      "permalink": "/Docusaurus/docs/faturas/congratulations"
+      "title": "Criar uma fatura",
+      "permalink": "/Docusaurus/docs/faturas/create-invoice"
     },
     "next": {
       "title": "Create a Page",
