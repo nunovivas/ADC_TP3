@@ -1,0 +1,10 @@
+{
+  "type": "mdx",
+  "permalink": "/Docusaurus/clientes",
+  "source": "@site/src/pages/clientes.md",
+  "title": "Clientes",
+  "frontMatter": {
+    "sidebar_label": "’Titulo que aparece na barra lateral’",
+    "sidebar_position": 1
+  }
+}
