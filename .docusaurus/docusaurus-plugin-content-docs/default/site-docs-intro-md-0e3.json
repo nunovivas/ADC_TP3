@@ -1,8 +1,8 @@
 {
   "unversionedId": "intro",
   "id": "intro",
-  "title": "Tutorial Intro",
-  "description": "Let's discover Docusaurus in less than 5 minutes.",
+  "title": "Bem-vindo à Nossa Concessionária de Carros",
+  "description": "Somos a sua escolha confiável para adquirir o carro dos seus sonhos. Na [Nome da Empresa], oferecemos uma experiência única de compra de automóveis, combinando qualidade, variedade e atendimento excepcional.",
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
   "slug": "/intro",
@@ -13,6 +13,7 @@
   "version": "current",
   "sidebarPosition": 1,
   "frontMatter": {
+    "sidebar_label": "Principio",
     "sidebar_position": 1
   },
   "sidebar": "tutorialSidebar",

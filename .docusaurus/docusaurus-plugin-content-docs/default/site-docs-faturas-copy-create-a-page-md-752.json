@@ -1,0 +1,27 @@
+{
+  "unversionedId": "faturas copy/create-a-page",
+  "id": "faturas copy/create-a-page",
+  "title": "Create a Page",
+  "description": "Add Markdown or React files to src/pages to create a standalone page:",
+  "source": "@site/docs/faturas copy/create-a-page.md",
+  "sourceDirName": "faturas copy",
+  "slug": "/faturas copy/create-a-page",
+  "permalink": "/Docusaurus/docs/faturas copy/create-a-page",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/faturas copy/create-a-page.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Super carros - Faturas",
+    "permalink": "/Docusaurus/docs/category/super-carros---faturas-1"
+  },
+  "next": {
+    "title": "Create a Document",
+    "permalink": "/Docusaurus/docs/faturas copy/create-a-document"
+  }
+}

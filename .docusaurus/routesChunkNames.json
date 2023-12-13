@@ -186,7 +186,7 @@
     },
     "content": "content---docusaurus-markdown-page-393-702"
   },
-  "/Docusaurus/docs-af0": {
+  "/Docusaurus/docs-30c": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---docusaurus-docsf-74-ed1"
@@ -197,13 +197,9 @@
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "categoryGeneratedIndex": "categoryGeneratedIndex---docusaurus-docs-category-super-carros-faturas-786-8bf"
   },
-  "/Docusaurus/docs/category/tutorial---basics-3d2": {
+  "/Docusaurus/docs/category/tutorial-b70": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docusaurus-docs-category-tutorial-basics-229-d19"
-  },
-  "/Docusaurus/docs/category/tutorial---extras-57a": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docusaurus-docs-category-tutorial-extras-6-dc-126"
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docusaurus-docs-category-tutorial-91-a-17f"
   },
   "/Docusaurus/docs/faturas/congratulations-e45": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -217,9 +213,9 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docusaurus-docs-faturas-create-a-documente-2-d-fe9"
   },
-  "/Docusaurus/docs/faturas/create-a-page-130": {
+  "/Docusaurus/docs/faturas/create-invoice-374": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docusaurus-docs-faturas-create-a-page-22-e-4b3"
+    "content": "content---docusaurus-docs-faturas-create-invoice-403-c66"
   },
   "/Docusaurus/docs/faturas/deploy-your-site-438": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -233,37 +229,29 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docusaurus-docs-intro-0-e-3-828"
   },
-  "/Docusaurus/docs/tutorial-basics/congratulations-9ac": {
+  "/Docusaurus/docs/tutorial/congratulations-bd2": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docusaurus-docs-tutorial-basics-congratulations-822-ce2"
+    "content": "content---docusaurus-docs-tutorial-congratulationsead-0b2"
   },
-  "/Docusaurus/docs/tutorial-basics/create-a-blog-post-d70": {
+  "/Docusaurus/docs/tutorial/create-a-blog-post-a91": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docusaurus-docs-tutorial-basics-create-a-blog-post-533-f1a"
+    "content": "content---docusaurus-docs-tutorial-create-a-blog-post-292-705"
   },
-  "/Docusaurus/docs/tutorial-basics/create-a-document-833": {
+  "/Docusaurus/docs/tutorial/create-a-document-678": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docusaurus-docs-tutorial-basics-create-a-document-1-e-4-8c7"
+    "content": "content---docusaurus-docs-tutorial-create-a-document-69-f-961"
   },
-  "/Docusaurus/docs/tutorial-basics/create-a-page-8e9": {
+  "/Docusaurus/docs/tutorial/create-a-page-db4": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docusaurus-docs-tutorial-basics-create-a-page-5-c-8-309"
+    "content": "content---docusaurus-docs-tutorial-create-a-page-21-e-5a1"
   },
-  "/Docusaurus/docs/tutorial-basics/deploy-your-site-860": {
+  "/Docusaurus/docs/tutorial/deploy-your-site-95e": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docusaurus-docs-tutorial-basics-deploy-your-sitef-55-9c2"
+    "content": "content---docusaurus-docs-tutorial-deploy-your-sitef-3-a-be5"
   },
-  "/Docusaurus/docs/tutorial-basics/markdown-features-146": {
+  "/Docusaurus/docs/tutorial/markdown-features-f08": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docusaurus-docs-tutorial-basics-markdown-features-18-c-a8a"
-  },
-  "/Docusaurus/docs/tutorial-extras/manage-docs-versions-b18": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docusaurus-docs-tutorial-extras-manage-docs-versionsdff-049"
-  },
-  "/Docusaurus/docs/tutorial-extras/translate-your-site-6fd": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docusaurus-docs-tutorial-extras-translate-your-sitee-44-5d2"
+    "content": "content---docusaurus-docs-tutorial-markdown-featuresbcd-6f7"
   },
   "/Docusaurus/-761": {
     "__comp": "__comp---site-src-pages-index-tsx-1-df-d3e",

@@ -1,0 +1,16 @@
+{
+  "title": "Tutorial",
+  "description": "Antigo turorial do código original",
+  "slug": "/category/tutorial",
+  "permalink": "/Docusaurus/docs/category/tutorial",
+  "navigation": {
+    "previous": {
+      "title": "Congratulations!",
+      "permalink": "/Docusaurus/docs/faturas/congratulations"
+    },
+    "next": {
+      "title": "Create a Page",
+      "permalink": "/Docusaurus/docs/tutorial/create-a-page"
+    }
+  }
+}

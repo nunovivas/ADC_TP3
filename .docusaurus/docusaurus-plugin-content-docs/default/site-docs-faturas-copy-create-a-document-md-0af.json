@@ -1,0 +1,27 @@
+{
+  "unversionedId": "faturas copy/create-a-document",
+  "id": "faturas copy/create-a-document",
+  "title": "Create a Document",
+  "description": "Documents are groups of pages connected through:",
+  "source": "@site/docs/faturas copy/create-a-document.md",
+  "sourceDirName": "faturas copy",
+  "slug": "/faturas copy/create-a-document",
+  "permalink": "/Docusaurus/docs/faturas copy/create-a-document",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/faturas copy/create-a-document.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Create a Page",
+    "permalink": "/Docusaurus/docs/faturas copy/create-a-page"
+  },
+  "next": {
+    "title": "Create a Blog Post",
+    "permalink": "/Docusaurus/docs/faturas copy/create-a-blog-post"
+  }
+}

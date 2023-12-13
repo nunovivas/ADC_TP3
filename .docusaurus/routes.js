@@ -99,7 +99,7 @@ export default [
   },
   {
     path: '/Docusaurus/docs',
-    component: ComponentCreator('/Docusaurus/docs', 'af0'),
+    component: ComponentCreator('/Docusaurus/docs', '30c'),
     routes: [
       {
         path: '/Docusaurus/docs/category/super-carros---faturas',
@@ -108,14 +108,8 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/Docusaurus/docs/category/tutorial---basics',
-        component: ComponentCreator('/Docusaurus/docs/category/tutorial---basics', '3d2'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/Docusaurus/docs/category/tutorial---extras',
-        component: ComponentCreator('/Docusaurus/docs/category/tutorial---extras', '57a'),
+        path: '/Docusaurus/docs/category/tutorial',
+        component: ComponentCreator('/Docusaurus/docs/category/tutorial', 'b70'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -138,8 +132,8 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/Docusaurus/docs/faturas/create-a-page',
-        component: ComponentCreator('/Docusaurus/docs/faturas/create-a-page', '130'),
+        path: '/Docusaurus/docs/faturas/create-invoice',
+        component: ComponentCreator('/Docusaurus/docs/faturas/create-invoice', '374'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -162,50 +156,38 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/Docusaurus/docs/tutorial-basics/congratulations',
-        component: ComponentCreator('/Docusaurus/docs/tutorial-basics/congratulations', '9ac'),
+        path: '/Docusaurus/docs/tutorial/congratulations',
+        component: ComponentCreator('/Docusaurus/docs/tutorial/congratulations', 'bd2'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/Docusaurus/docs/tutorial-basics/create-a-blog-post',
-        component: ComponentCreator('/Docusaurus/docs/tutorial-basics/create-a-blog-post', 'd70'),
+        path: '/Docusaurus/docs/tutorial/create-a-blog-post',
+        component: ComponentCreator('/Docusaurus/docs/tutorial/create-a-blog-post', 'a91'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/Docusaurus/docs/tutorial-basics/create-a-document',
-        component: ComponentCreator('/Docusaurus/docs/tutorial-basics/create-a-document', '833'),
+        path: '/Docusaurus/docs/tutorial/create-a-document',
+        component: ComponentCreator('/Docusaurus/docs/tutorial/create-a-document', '678'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/Docusaurus/docs/tutorial-basics/create-a-page',
-        component: ComponentCreator('/Docusaurus/docs/tutorial-basics/create-a-page', '8e9'),
+        path: '/Docusaurus/docs/tutorial/create-a-page',
+        component: ComponentCreator('/Docusaurus/docs/tutorial/create-a-page', 'db4'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/Docusaurus/docs/tutorial-basics/deploy-your-site',
-        component: ComponentCreator('/Docusaurus/docs/tutorial-basics/deploy-your-site', '860'),
+        path: '/Docusaurus/docs/tutorial/deploy-your-site',
+        component: ComponentCreator('/Docusaurus/docs/tutorial/deploy-your-site', '95e'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/Docusaurus/docs/tutorial-basics/markdown-features',
-        component: ComponentCreator('/Docusaurus/docs/tutorial-basics/markdown-features', '146'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/Docusaurus/docs/tutorial-extras/manage-docs-versions',
-        component: ComponentCreator('/Docusaurus/docs/tutorial-extras/manage-docs-versions', 'b18'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/Docusaurus/docs/tutorial-extras/translate-your-site',
-        component: ComponentCreator('/Docusaurus/docs/tutorial-extras/translate-your-site', '6fd'),
+        path: '/Docusaurus/docs/tutorial/markdown-features',
+        component: ComponentCreator('/Docusaurus/docs/tutorial/markdown-features', 'f08'),
         exact: true,
         sidebar: "tutorialSidebar"
       }

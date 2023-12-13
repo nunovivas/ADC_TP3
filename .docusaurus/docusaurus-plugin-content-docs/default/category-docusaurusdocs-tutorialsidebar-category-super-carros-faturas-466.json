@@ -5,12 +5,12 @@
   "permalink": "/Docusaurus/docs/category/super-carros---faturas",
   "navigation": {
     "previous": {
-      "title": "Tutorial Intro",
+      "title": "Principio",
       "permalink": "/Docusaurus/docs/intro"
     },
     "next": {
-      "title": "Create a Page",
-      "permalink": "/Docusaurus/docs/faturas/create-a-page"
+      "title": "Criar uma fatura",
+      "permalink": "/Docusaurus/docs/faturas/create-invoice"
     }
   }
 }

@@ -1,47 +1,21 @@
 ---
+sidebar_label: "Principio"
 sidebar_position: 1
 ---
+# Bem-vindo à Nossa Concessionária de Carros
 
-# Tutorial Intro
+Somos a sua escolha confiável para adquirir o carro dos seus sonhos. Na [Nome da Empresa], oferecemos uma experiência única de compra de automóveis, combinando qualidade, variedade e atendimento excepcional.
 
-Let's discover **Docusaurus in less than 5 minutes**.
+## Nossos Serviços
 
-## Getting Started
+Oferecemos uma extensa gama de veículos novos e usados, cuidadosamente selecionados para atender às suas necessidades e orçamento. Contamos com uma equipe de especialistas apaixonados por carros, prontos para orientar você em cada etapa do processo de compra.
 
-Get started by **creating a new site**.
+## Compromisso com a Qualidade
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+Na Super Carros, a qualidade é a nossa prioridade. Todos os nossos veículos passam por rigorosas inspeções para garantir que você receba um carro confiável e em excelente estado.
 
-### What you'll need
+## Financiamento e Assistência
 
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+Facilitamos o processo de financiamento, oferecendo opções flexíveis e acessíveis para tornar o seu sonho de possuir um carro uma realidade. Além disso, nosso serviço pós-venda garante que você receba suporte contínuo para manter o seu veículo em perfeitas condições.
 
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+Descubra a emoção de dirigir o carro perfeito. Visite-nos hoje e deixe a [Nome da Empresa] transformar a sua jornada automotiva em uma experiência inesquecível.
