@@ -4,13 +4,13 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "Site de exemplo",
-  "tagline": "Disciplina de ADC",
+  "title": "Automoveis Maravilha",
+  "tagline": "Para si e para a sua filha",
   "favicon": "img/favicon.ico",
   "url": "https://github.com",
   "baseUrl": "/Docusaurus/",
   "organizationName": "UALG",
-  "projectName": "do-doku",
+  "projectName": "TP3",
   "deploymentBranch": "gh-pages",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
@@ -43,7 +43,7 @@ export default {
   "themeConfig": {
     "image": "img/docusaurus-social-card.jpg",
     "navbar": {
-      "title": "My Site",
+      "title": "Super Carros",
       "logo": {
         "alt": "My Site Logo",
         "src": "img/logo.svg"
@@ -111,7 +111,7 @@ export default {
           ]
         }
       ],
-      "copyright": "Copyright © 2023 My Project, Inc. Built with Docusaurus."
+      "copyright": "Copyright © 2023 UALG-Ambientes de Desenvolvimento Colaborativo, Inc. Built with Docusaurus."
     },
     "prism": {
       "theme": {

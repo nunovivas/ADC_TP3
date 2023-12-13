@@ -10,32 +10,29 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Easy to Use',
+    title: 'Fácil de utilizar',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Usamos o docusaurus para dar suporte à nossa empresa.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Foco no que é importante - o dinheiro',
+    Svg: require('@site/static/img/dollar-sign.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Na nossa empresa, focamo-nos no que é importante, vender os nossos carros que não prestam para nada, pelo preço mais caro possivel.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Powered by Gasolina',
+    Svg: require('@site/static/img/gasoline.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        De forma unica, os nossos automoveis usam um metodo inovador e 100% amigo do ambiente: A gasolina.
       </>
     ),
   },

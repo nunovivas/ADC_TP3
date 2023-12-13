@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Site de exemplo',
-  tagline: 'Disciplina de ADC',
+  title: 'Automoveis Maravilha',
+  tagline: 'Para si e para a sua filha',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -19,7 +19,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'UALG', // Usually your GitHub org/user name.
-  projectName: 'do-doku', // Usually your repo name.
+  projectName: 'TP3', // Usually your repo name.
   deploymentBranch: 'gh-pages',
 
   onBrokenLinks: 'throw',
@@ -65,7 +65,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: 'Super Carros',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
@@ -128,7 +128,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} UALG-Ambientes de Desenvolvimento Colaborativo, Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
