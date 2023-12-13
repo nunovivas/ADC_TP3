@@ -8,7 +8,7 @@ export default {
   "tagline": "Para si e para a sua filha",
   "favicon": "img/favicon.ico",
   "url": "https://github.com",
-  "baseUrl": "/Docusaurus/",
+  "baseUrl": "/ADC_TP3/",
   "organizationName": "UALG",
   "projectName": "TP3",
   "deploymentBranch": "gh-pages",
@@ -43,7 +43,7 @@ export default {
   "themeConfig": {
     "image": "img/docusaurus-social-card.jpg",
     "navbar": {
-      "title": "Super Carros",
+      "title": "Automóveis Maravilha",
       "logo": {
         "alt": "My Site Logo",
         "src": "img/logo.svg"
@@ -53,7 +53,7 @@ export default {
           "type": "docSidebar",
           "sidebarId": "tutorialSidebar",
           "position": "left",
-          "label": "Tutorial"
+          "label": "Documentação"
         },
         {
           "to": "/blog",
@@ -61,7 +61,7 @@ export default {
           "position": "left"
         },
         {
-          "href": "https://github.com/facebook/docusaurus",
+          "href": "https://github.com/nunovivas/ADC_TP3/",
           "label": "GitHub",
           "position": "right"
         }

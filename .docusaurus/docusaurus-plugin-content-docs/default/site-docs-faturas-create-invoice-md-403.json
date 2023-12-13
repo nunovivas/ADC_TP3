@@ -6,7 +6,7 @@
   "source": "@site/docs/faturas/create-invoice.md",
   "sourceDirName": "faturas",
   "slug": "/faturas/create-invoice",
-  "permalink": "/Docusaurus/docs/faturas/create-invoice",
+  "permalink": "/ADC_TP3/docs/faturas/create-invoice",
   "draft": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/faturas/create-invoice.md",
   "tags": [],
@@ -17,7 +17,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Super carros - Faturas",
-    "permalink": "/Docusaurus/docs/category/super-carros---faturas"
+    "title": "Faturas",
+    "permalink": "/ADC_TP3/docs/category/faturas"
+  },
+  "next": {
+    "title": "Veiculos",
+    "permalink": "/ADC_TP3/docs/category/veiculos"
   }
 }

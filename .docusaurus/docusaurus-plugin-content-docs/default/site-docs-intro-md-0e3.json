@@ -2,23 +2,23 @@
   "unversionedId": "intro",
   "id": "intro",
   "title": "Bem-vindo à Nossa Concessionária de Carros",
-  "description": "Somos a sua escolha confiável para adquirir o carro dos seus sonhos. Na [Nome da Empresa], oferecemos uma experiência única de compra de automóveis, combinando qualidade, variedade e atendimento excepcional.",
+  "description": "Somos a sua escolha confiável para adquirir o carro dos seus sonhos. Na Automoveis Maravilha, oferecemos uma experiência única de compra de automóveis, combinando qualidade, variedade e atendimento excepcional.",
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
   "slug": "/intro",
-  "permalink": "/Docusaurus/docs/intro",
+  "permalink": "/ADC_TP3/docs/intro",
   "draft": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/intro.md",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 1,
+  "sidebarPosition": 0,
   "frontMatter": {
     "sidebar_label": "Principio",
-    "sidebar_position": 1
+    "sidebar_position": 0
   },
   "sidebar": "tutorialSidebar",
   "next": {
-    "title": "Super carros - Faturas",
-    "permalink": "/Docusaurus/docs/category/super-carros---faturas"
+    "title": "Clientes",
+    "permalink": "/ADC_TP3/docs/category/clientes"
   }
 }

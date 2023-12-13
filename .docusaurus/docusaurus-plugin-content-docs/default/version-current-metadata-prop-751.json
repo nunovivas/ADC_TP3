@@ -12,27 +12,63 @@
       {
         "type": "link",
         "label": "Principio",
-        "href": "/Docusaurus/docs/intro",
+        "href": "/ADC_TP3/docs/intro",
         "docId": "intro"
       },
       {
         "type": "category",
-        "label": "Super carros - Faturas",
+        "label": "Clientes",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "create-client",
+            "href": "/ADC_TP3/docs/clientes/create-client",
+            "docId": "clientes/create-client"
+          }
+        ],
+        "href": "/ADC_TP3/docs/category/clientes"
+      },
+      {
+        "type": "category",
+        "label": "Faturas",
         "collapsible": true,
         "collapsed": true,
         "items": [
           {
             "type": "link",
             "label": "Criar uma fatura",
-            "href": "/Docusaurus/docs/faturas/create-invoice",
+            "href": "/ADC_TP3/docs/faturas/create-invoice",
             "docId": "faturas/create-invoice"
           }
         ],
-        "href": "/Docusaurus/docs/category/super-carros---faturas"
+        "href": "/ADC_TP3/docs/category/faturas"
+      },
+      {
+        "type": "category",
+        "label": "Veiculos",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "create-car",
+            "href": "/ADC_TP3/docs/veiculos/create-car",
+            "docId": "veiculos/create-car"
+          }
+        ],
+        "href": "/ADC_TP3/docs/category/veiculos"
       }
     ]
   },
   "docs": {
+    "clientes/create-client": {
+      "id": "clientes/create-client",
+      "title": "create-client",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
     "faturas/create-invoice": {
       "id": "faturas/create-invoice",
       "title": "Criar uma fatura",
@@ -42,7 +78,13 @@
     "intro": {
       "id": "intro",
       "title": "Bem-vindo à Nossa Concessionária de Carros",
-      "description": "Somos a sua escolha confiável para adquirir o carro dos seus sonhos. Na [Nome da Empresa], oferecemos uma experiência única de compra de automóveis, combinando qualidade, variedade e atendimento excepcional.",
+      "description": "Somos a sua escolha confiável para adquirir o carro dos seus sonhos. Na Automoveis Maravilha, oferecemos uma experiência única de compra de automóveis, combinando qualidade, variedade e atendimento excepcional.",
+      "sidebar": "tutorialSidebar"
+    },
+    "veiculos/create-car": {
+      "id": "veiculos/create-car",
+      "title": "create-car",
+      "description": "",
       "sidebar": "tutorialSidebar"
     }
   }

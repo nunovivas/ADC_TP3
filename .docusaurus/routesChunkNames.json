@@ -1,172 +1,231 @@
 {
-  "/Docusaurus/blog-69c": {
-    "__comp": "a6aa9e1f",
+  "/ADC_TP3/__docusaurus/debug-d2e": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "46343c10"
+      "plugin": "plugin---adc-tp-3-docusaurus-debug-47-c-279"
+    }
+  },
+  "/ADC_TP3/__docusaurus/debug/config-70d": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---adc-tp-3-docusaurus-debug-47-c-279"
+    }
+  },
+  "/ADC_TP3/__docusaurus/debug/content-c84": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---adc-tp-3-docusaurus-debug-47-c-279"
     },
-    "sidebar": "814f3328",
+    "allContent": "allContent---adc-tp-3-docusaurus-debug-content-246-942"
+  },
+  "/ADC_TP3/__docusaurus/debug/globalData-60a": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---adc-tp-3-docusaurus-debug-47-c-279"
+    }
+  },
+  "/ADC_TP3/__docusaurus/debug/metadata-95a": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---adc-tp-3-docusaurus-debug-47-c-279"
+    }
+  },
+  "/ADC_TP3/__docusaurus/debug/registry-68b": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---adc-tp-3-docusaurus-debug-47-c-279"
+    }
+  },
+  "/ADC_TP3/__docusaurus/debug/routes-91f": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---adc-tp-3-docusaurus-debug-47-c-279"
+    }
+  },
+  "/ADC_TP3/blog-3b3": {
+    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
+    "__context": {
+      "plugin": "plugin---adc-tp-3-blog-463-68b"
+    },
+    "sidebar": "sidebar---adc-tp-3-blog-814-e87",
     "items": [
       {
-        "content": "7661071f"
+        "content": "content---adc-tp-3-blog-766-a78"
       },
       {
-        "content": "f4f34a3a"
+        "content": "content---adc-tp-3-blogf-4-f-0e0"
       },
       {
-        "content": "8717b14a"
+        "content": "content---adc-tp-3-blog-871-0f5"
       },
       {
-        "content": "925b3f96"
+        "content": "content---adc-tp-3-blog-925-8fe"
       }
     ],
-    "metadata": "1205ef07"
+    "metadata": "metadata---adc-tp-3-blogbf-4-5d8"
   },
-  "/Docusaurus/blog/archive-373": {
-    "__comp": "9e4087bc",
+  "/ADC_TP3/blog/archive-047": {
+    "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
     "__context": {
-      "plugin": "46343c10"
+      "plugin": "plugin---adc-tp-3-blog-463-68b"
     },
-    "archive": "ceeb69f7"
+    "archive": "archive---adc-tp-3-blog-archive-3-d-0-b07"
   },
-  "/Docusaurus/blog/first-blog-post-c21": {
-    "__comp": "ccc49370",
+  "/ADC_TP3/blog/first-blog-post-0bc": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
-      "plugin": "46343c10"
+      "plugin": "plugin---adc-tp-3-blog-463-68b"
     },
-    "sidebar": "814f3328",
-    "content": "e273c56f"
+    "sidebar": "sidebar---adc-tp-3-blog-814-e87",
+    "content": "content---adc-tp-3-blog-first-blog-poste-27-0a8"
   },
-  "/Docusaurus/blog/long-blog-post-b37": {
-    "__comp": "ccc49370",
+  "/ADC_TP3/blog/long-blog-post-476": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
-      "plugin": "46343c10"
+      "plugin": "plugin---adc-tp-3-blog-463-68b"
     },
-    "sidebar": "814f3328",
-    "content": "73664a40"
+    "sidebar": "sidebar---adc-tp-3-blog-814-e87",
+    "content": "content---adc-tp-3-blog-long-blog-post-736-1a5"
   },
-  "/Docusaurus/blog/mdx-blog-post-2d3": {
-    "__comp": "ccc49370",
+  "/ADC_TP3/blog/mdx-blog-post-d8a": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
-      "plugin": "46343c10"
+      "plugin": "plugin---adc-tp-3-blog-463-68b"
     },
-    "sidebar": "814f3328",
-    "content": "59362658"
+    "sidebar": "sidebar---adc-tp-3-blog-814-e87",
+    "content": "content---adc-tp-3-blog-mdx-blog-post-593-84d"
   },
-  "/Docusaurus/blog/tags-198": {
-    "__comp": "01a85c17",
+  "/ADC_TP3/blog/tags-406": {
+    "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
     "__context": {
-      "plugin": "46343c10"
+      "plugin": "plugin---adc-tp-3-blog-463-68b"
     },
-    "sidebar": "814f3328",
-    "tags": "cc25cc47"
+    "sidebar": "sidebar---adc-tp-3-blog-814-e87",
+    "tags": "tags---adc-tp-3-blog-tagsed-3-18f"
   },
-  "/Docusaurus/blog/tags/docusaurus-945": {
-    "__comp": "6875c492",
+  "/ADC_TP3/blog/tags/docusaurus-f97": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "46343c10"
+      "plugin": "plugin---adc-tp-3-blog-463-68b"
     },
-    "sidebar": "814f3328",
+    "sidebar": "sidebar---adc-tp-3-blog-814-e87",
     "items": [
       {
-        "content": "7661071f"
+        "content": "content---adc-tp-3-blog-766-a78"
       },
       {
-        "content": "f4f34a3a"
+        "content": "content---adc-tp-3-blogf-4-f-0e0"
       },
       {
-        "content": "8717b14a"
+        "content": "content---adc-tp-3-blog-871-0f5"
       },
       {
-        "content": "925b3f96"
+        "content": "content---adc-tp-3-blog-925-8fe"
       }
     ],
-    "tag": "57572d2c",
-    "listMetadata": "5e518d75"
+    "tag": "tag---adc-tp-3-blog-tags-docusaurusa-60-5d0",
+    "listMetadata": "listMetadata---adc-tp-3-blog-tags-docusaurus-4-d-7-344"
   },
-  "/Docusaurus/blog/tags/facebook-512": {
-    "__comp": "6875c492",
+  "/ADC_TP3/blog/tags/facebook-541": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "46343c10"
+      "plugin": "plugin---adc-tp-3-blog-463-68b"
     },
-    "sidebar": "814f3328",
+    "sidebar": "sidebar---adc-tp-3-blog-814-e87",
     "items": [
       {
-        "content": "7661071f"
+        "content": "content---adc-tp-3-blog-766-a78"
       }
     ],
-    "tag": "842b8a05",
-    "listMetadata": "adf1b267"
+    "tag": "tag---adc-tp-3-blog-tags-facebook-90-b-c2c",
+    "listMetadata": "listMetadata---adc-tp-3-blog-tags-facebookec-0-8aa"
   },
-  "/Docusaurus/blog/tags/hello-c76": {
-    "__comp": "6875c492",
+  "/ADC_TP3/blog/tags/hello-688": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "46343c10"
+      "plugin": "plugin---adc-tp-3-blog-463-68b"
     },
-    "sidebar": "814f3328",
+    "sidebar": "sidebar---adc-tp-3-blog-814-e87",
     "items": [
       {
-        "content": "7661071f"
+        "content": "content---adc-tp-3-blog-766-a78"
       },
       {
-        "content": "8717b14a"
+        "content": "content---adc-tp-3-blog-871-0f5"
       }
     ],
-    "tag": "402f2263",
-    "listMetadata": "f8dba1d2"
+    "tag": "tag---adc-tp-3-blog-tags-hello-41-a-736",
+    "listMetadata": "listMetadata---adc-tp-3-blog-tags-hellod-0-f-a73"
   },
-  "/Docusaurus/blog/tags/hola-5fe": {
-    "__comp": "6875c492",
+  "/ADC_TP3/blog/tags/hola-8f7": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "46343c10"
+      "plugin": "plugin---adc-tp-3-blog-463-68b"
     },
-    "sidebar": "814f3328",
+    "sidebar": "sidebar---adc-tp-3-blog-814-e87",
     "items": [
       {
-        "content": "925b3f96"
+        "content": "content---adc-tp-3-blog-925-8fe"
       }
     ],
-    "tag": "090abc7e",
-    "listMetadata": "2d137089"
+    "tag": "tag---adc-tp-3-blog-tags-hola-8-f-2-fb7",
+    "listMetadata": "listMetadata---adc-tp-3-blog-tags-hola-36-f-571"
   },
-  "/Docusaurus/blog/welcome-75f": {
-    "__comp": "ccc49370",
+  "/ADC_TP3/blog/welcome-6f9": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
-      "plugin": "46343c10"
+      "plugin": "plugin---adc-tp-3-blog-463-68b"
     },
-    "sidebar": "814f3328",
-    "content": "d9f32620"
+    "sidebar": "sidebar---adc-tp-3-blog-814-e87",
+    "content": "content---adc-tp-3-blog-welcomed-9-f-9f2"
   },
-  "/Docusaurus/markdown-page-c70": {
-    "__comp": "1f391b9e",
+  "/ADC_TP3/markdown-page-58b": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
     "__context": {
-      "plugin": "79af9e95"
+      "plugin": "plugin---adc-tp-3-markdown-page-79-a-5fb"
     },
-    "content": "393be207"
+    "content": "content---adc-tp-3-markdown-page-393-e19"
   },
-  "/Docusaurus/docs-fe8": {
-    "__comp": "1be78505",
+  "/ADC_TP3/docs-042": {
+    "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
-      "plugin": "f74f8e0b"
+      "plugin": "plugin---adc-tp-3-docsf-74-342"
     },
-    "versionMetadata": "935f2afb"
+    "versionMetadata": "versionMetadata---adc-tp-3-docs-935-694"
   },
-  "/Docusaurus/docs/category/super-carros---faturas-30f": {
-    "__comp": "14eb3368",
-    "categoryGeneratedIndex": "78685c4a"
+  "/ADC_TP3/docs/category/clientes-43a": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---adc-tp-3-docs-category-clientescad-9b3"
   },
-  "/Docusaurus/docs/faturas/create-invoice-374": {
-    "__comp": "17896441",
-    "content": "4030d5e2"
+  "/ADC_TP3/docs/category/faturas-9c0": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---adc-tp-3-docs-category-faturas-9-b-2-466"
   },
-  "/Docusaurus/docs/intro-bff": {
-    "__comp": "17896441",
-    "content": "0e384e19"
+  "/ADC_TP3/docs/category/veiculos-677": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---adc-tp-3-docs-category-veiculosc-88-b5e"
   },
-  "/Docusaurus/-761": {
-    "__comp": "1df93b7f",
+  "/ADC_TP3/docs/clientes/create-client-fdb": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---adc-tp-3-docs-clientes-create-client-757-894"
+  },
+  "/ADC_TP3/docs/faturas/create-invoice-7e8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---adc-tp-3-docs-faturas-create-invoice-403-09c"
+  },
+  "/ADC_TP3/docs/intro-dc1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---adc-tp-3-docs-intro-0-e-3-943"
+  },
+  "/ADC_TP3/docs/veiculos/create-car-a73": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---adc-tp-3-docs-veiculos-create-care-11-057"
+  },
+  "/ADC_TP3/-0fd": {
+    "__comp": "__comp---site-src-pages-index-tsx-1-df-d3e",
     "__context": {
-      "plugin": "79af9e95"
+      "plugin": "plugin---adc-tp-3-markdown-page-79-a-5fb"
     },
-    "config": "5e9f5e1a"
+    "config": "config---adc-tp-3-5-e-9-873"
   }
 }

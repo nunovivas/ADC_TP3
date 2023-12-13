@@ -1,0 +1,16 @@
+{
+  "title": "Super carros - Veiculos",
+  "description": "Em 5 minutos ensina-se a vender gato por lebre!",
+  "slug": "/category/super-carros---veiculos",
+  "permalink": "/ADC_TP3/docs/category/super-carros---veiculos",
+  "navigation": {
+    "previous": {
+      "title": "Criar uma fatura",
+      "permalink": "/ADC_TP3/docs/faturas/create-invoice"
+    },
+    "next": {
+      "title": "create-car",
+      "permalink": "/ADC_TP3/docs/veiculos/create-car"
+    }
+  }
+}

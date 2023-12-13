@@ -1,10 +1,10 @@
 ---
 sidebar_label: "Principio"
-sidebar_position: 1
+sidebar_position: 0
 ---
 # Bem-vindo à Nossa Concessionária de Carros
 
-Somos a sua escolha confiável para adquirir o carro dos seus sonhos. Na [Nome da Empresa], oferecemos uma experiência única de compra de automóveis, combinando qualidade, variedade e atendimento excepcional.
+Somos a sua escolha confiável para adquirir o carro dos seus sonhos. Na Automoveis Maravilha, oferecemos uma experiência única de compra de automóveis, combinando qualidade, variedade e atendimento excepcional.
 
 ## Nossos Serviços
 
@@ -12,7 +12,7 @@ Oferecemos uma extensa gama de veículos novos e usados, cuidadosamente selecion
 
 ## Compromisso com a Qualidade
 
-Na Super Carros, a qualidade é a nossa prioridade. Todos os nossos veículos passam por rigorosas inspeções para garantir que você receba um carro confiável e em excelente estado.
+Na Automoveis Maravilha, a qualidade é a nossa prioridade. Todos os nossos veículos passam por rigorosas inspeções para garantir que você receba um carro confiável e em excelente estado.
 
 ## Financiamento e Assistência
 
