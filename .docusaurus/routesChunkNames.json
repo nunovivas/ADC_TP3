@@ -186,12 +186,16 @@
     },
     "content": "content---docusaurus-markdown-page-393-702"
   },
-  "/Docusaurus/docs-3c0": {
+  "/Docusaurus/docs-af0": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---docusaurus-docsf-74-ed1"
     },
     "versionMetadata": "versionMetadata---docusaurus-docs-935-d8b"
+  },
+  "/Docusaurus/docs/category/super-carros---faturas-30f": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docusaurus-docs-category-super-carros-faturas-786-8bf"
   },
   "/Docusaurus/docs/category/tutorial---basics-3d2": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
@@ -200,6 +204,30 @@
   "/Docusaurus/docs/category/tutorial---extras-57a": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "categoryGeneratedIndex": "categoryGeneratedIndex---docusaurus-docs-category-tutorial-extras-6-dc-126"
+  },
+  "/Docusaurus/docs/faturas/congratulations-e45": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docusaurus-docs-faturas-congratulationsc-9-c-717"
+  },
+  "/Docusaurus/docs/faturas/create-a-blog-post-b8d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docusaurus-docs-faturas-create-a-blog-postd-3-a-c14"
+  },
+  "/Docusaurus/docs/faturas/create-a-document-39d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docusaurus-docs-faturas-create-a-documente-2-d-fe9"
+  },
+  "/Docusaurus/docs/faturas/create-a-page-130": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docusaurus-docs-faturas-create-a-page-22-e-4b3"
+  },
+  "/Docusaurus/docs/faturas/deploy-your-site-438": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docusaurus-docs-faturas-deploy-your-sitec-9-f-78b"
+  },
+  "/Docusaurus/docs/faturas/markdown-features-0d7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docusaurus-docs-faturas-markdown-features-65-e-0f1"
   },
   "/Docusaurus/docs/intro-bff": {
     "__comp": "__comp---theme-doc-item-178-a40",

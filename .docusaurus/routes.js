@@ -99,8 +99,14 @@ export default [
   },
   {
     path: '/Docusaurus/docs',
-    component: ComponentCreator('/Docusaurus/docs', '3c0'),
+    component: ComponentCreator('/Docusaurus/docs', 'af0'),
     routes: [
+      {
+        path: '/Docusaurus/docs/category/super-carros---faturas',
+        component: ComponentCreator('/Docusaurus/docs/category/super-carros---faturas', '30f'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
       {
         path: '/Docusaurus/docs/category/tutorial---basics',
         component: ComponentCreator('/Docusaurus/docs/category/tutorial---basics', '3d2'),
@@ -110,6 +116,42 @@ export default [
       {
         path: '/Docusaurus/docs/category/tutorial---extras',
         component: ComponentCreator('/Docusaurus/docs/category/tutorial---extras', '57a'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/Docusaurus/docs/faturas/congratulations',
+        component: ComponentCreator('/Docusaurus/docs/faturas/congratulations', 'e45'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/Docusaurus/docs/faturas/create-a-blog-post',
+        component: ComponentCreator('/Docusaurus/docs/faturas/create-a-blog-post', 'b8d'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/Docusaurus/docs/faturas/create-a-document',
+        component: ComponentCreator('/Docusaurus/docs/faturas/create-a-document', '39d'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/Docusaurus/docs/faturas/create-a-page',
+        component: ComponentCreator('/Docusaurus/docs/faturas/create-a-page', '130'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/Docusaurus/docs/faturas/deploy-your-site',
+        component: ComponentCreator('/Docusaurus/docs/faturas/deploy-your-site', '438'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/Docusaurus/docs/faturas/markdown-features',
+        component: ComponentCreator('/Docusaurus/docs/faturas/markdown-features', '0d7'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

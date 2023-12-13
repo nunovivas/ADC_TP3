@@ -1,0 +1,16 @@
+{
+  "title": "Tutorial - Basics",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/tutorial---basics-1",
+  "permalink": "/Docusaurus/docs/category/tutorial---basics-1",
+  "navigation": {
+    "previous": {
+      "title": "Congratulations!",
+      "permalink": "/Docusaurus/docs/tutorial-basics/congratulations"
+    },
+    "next": {
+      "title": "Create a Page",
+      "permalink": "/Docusaurus/docs/tutorial-basics copy/create-a-page"
+    }
+  }
+}

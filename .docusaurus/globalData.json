@@ -11,6 +11,36 @@
           "mainDocId": "intro",
           "docs": [
             {
+              "id": "faturas/congratulations",
+              "path": "/Docusaurus/docs/faturas/congratulations",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "faturas/create-a-blog-post",
+              "path": "/Docusaurus/docs/faturas/create-a-blog-post",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "faturas/create-a-document",
+              "path": "/Docusaurus/docs/faturas/create-a-document",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "faturas/create-a-page",
+              "path": "/Docusaurus/docs/faturas/create-a-page",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "faturas/deploy-your-site",
+              "path": "/Docusaurus/docs/faturas/deploy-your-site",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "faturas/markdown-features",
+              "path": "/Docusaurus/docs/faturas/markdown-features",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "intro",
               "path": "/Docusaurus/docs/intro",
               "sidebar": "tutorialSidebar"
@@ -53,6 +83,11 @@
             {
               "id": "tutorial-extras/translate-your-site",
               "path": "/Docusaurus/docs/tutorial-extras/translate-your-site",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/super-carros---faturas",
+              "path": "/Docusaurus/docs/category/super-carros---faturas",
               "sidebar": "tutorialSidebar"
             },
             {

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "faturas/create-a-blog-post",
+  "id": "faturas/create-a-blog-post",
+  "title": "Create a Blog Post",
+  "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
+  "source": "@site/docs/faturas/create-a-blog-post.md",
+  "sourceDirName": "faturas",
+  "slug": "/faturas/create-a-blog-post",
+  "permalink": "/Docusaurus/docs/faturas/create-a-blog-post",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/faturas/create-a-blog-post.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Create a Document",
+    "permalink": "/Docusaurus/docs/faturas/create-a-document"
+  },
+  "next": {
+    "title": "Markdown Features",
+    "permalink": "/Docusaurus/docs/faturas/markdown-features"
+  }
+}

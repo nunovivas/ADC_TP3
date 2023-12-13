@@ -1,0 +1,16 @@
+{
+  "title": "Super carros - Basics",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/super-carros---basics",
+  "permalink": "/Docusaurus/docs/category/super-carros---basics",
+  "navigation": {
+    "previous": {
+      "title": "Tutorial Intro",
+      "permalink": "/Docusaurus/docs/intro"
+    },
+    "next": {
+      "title": "Create a Page",
+      "permalink": "/Docusaurus/docs/faturas/create-a-page"
+    }
+  }
+}

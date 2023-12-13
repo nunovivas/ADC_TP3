@@ -1,0 +1,16 @@
+{
+  "title": "Super carros - Faturas",
+  "description": "Em 5 minutos ensina-se a fazer faturas!",
+  "slug": "/category/super-carros---faturas",
+  "permalink": "/Docusaurus/docs/category/super-carros---faturas",
+  "navigation": {
+    "previous": {
+      "title": "Tutorial Intro",
+      "permalink": "/Docusaurus/docs/intro"
+    },
+    "next": {
+      "title": "Create a Page",
+      "permalink": "/Docusaurus/docs/faturas/create-a-page"
+    }
+  }
+}
