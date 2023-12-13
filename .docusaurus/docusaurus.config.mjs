@@ -8,7 +8,7 @@ export default {
   "tagline": "Disciplina de ADC",
   "favicon": "img/favicon.ico",
   "url": "https://github.com",
-  "baseUrl": "/doku/",
+  "baseUrl": "/Docusaurus/",
   "organizationName": "UALG",
   "projectName": "do-doku",
   "deploymentBranch": "gh-pages",
@@ -27,7 +27,7 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "/Users/nunovivas/Documents/Universidade/ADC/doku/sidebars.js",
+          "sidebarPath": "/Users/nunovivas/Documents/Universidade/ADC/TP3/sidebars.js",
           "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
         },
         "blog": {
@@ -35,7 +35,7 @@ export default {
           "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
         },
         "theme": {
-          "customCss": "/Users/nunovivas/Documents/Universidade/ADC/doku/src/css/custom.css"
+          "customCss": "/Users/nunovivas/Documents/Universidade/ADC/TP3/src/css/custom.css"
         }
       }
     ]

@@ -3,19 +3,19 @@
   "items": [
     {
       "title": "Welcome",
-      "permalink": "/doku/blog/welcome"
+      "permalink": "/Docusaurus/blog/welcome"
     },
     {
       "title": "MDX Blog Post",
-      "permalink": "/doku/blog/mdx-blog-post"
+      "permalink": "/Docusaurus/blog/mdx-blog-post"
     },
     {
       "title": "Long Blog Post",
-      "permalink": "/doku/blog/long-blog-post"
+      "permalink": "/Docusaurus/blog/long-blog-post"
     },
     {
       "title": "First Blog Post",
-      "permalink": "/doku/blog/first-blog-post"
+      "permalink": "/Docusaurus/blog/first-blog-post"
     }
   ]
 }
