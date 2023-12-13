@@ -23,7 +23,7 @@
         "items": [
           {
             "type": "link",
-            "label": "create-client",
+            "label": "Como Registrar um Veículo 🚗",
             "href": "/ADC_TP3/docs/clientes/create-client",
             "docId": "clientes/create-client"
           }
@@ -38,7 +38,7 @@
         "items": [
           {
             "type": "link",
-            "label": "Criar uma fatura",
+            "label": "Guia Completo para Criar Faturas 💼",
             "href": "/ADC_TP3/docs/faturas/create-invoice",
             "docId": "faturas/create-invoice"
           }
@@ -53,7 +53,7 @@
         "items": [
           {
             "type": "link",
-            "label": "create-car",
+            "label": "Como Registrar um Veículo em um Sistema de Software 🚗",
             "href": "/ADC_TP3/docs/veiculos/create-car",
             "docId": "veiculos/create-car"
           }
@@ -65,26 +65,26 @@
   "docs": {
     "clientes/create-client": {
       "id": "clientes/create-client",
-      "title": "create-client",
-      "description": "",
+      "title": "Como Registrar um Veículo 🚗",
+      "description": "Ao adicionar informações sobre um veículo em seu programa de software, utilize diversas opções do Markdown para uma apresentação visualmente atraente.",
       "sidebar": "tutorialSidebar"
     },
     "faturas/create-invoice": {
       "id": "faturas/create-invoice",
-      "title": "Criar uma fatura",
-      "description": "Muito fácil criar uma fatura. Basta escolher a opção fatura, o cliente, o valor a faturar e carregar no botão emitir fatura",
+      "title": "Guia Completo para Criar Faturas 💼",
+      "description": "Ao gerar faturas em seu programa de software, explore diversas opções do Markdown para uma apresentação detalhada e organizada.",
       "sidebar": "tutorialSidebar"
     },
     "intro": {
       "id": "intro",
-      "title": "Bem-vindo à Nossa Concessionária de Carros",
-      "description": "Somos a sua escolha confiável para adquirir o carro dos seus sonhos. Na Automoveis Maravilha, oferecemos uma experiência única de compra de automóveis, combinando qualidade, variedade e atendimento excepcional.",
+      "title": "Bem-vindo à **Nossa Concessionária de Carros** 🚗",
+      "description": "Somos a sua escolha confiável para adquirir o carro dos seus sonhos. Na Automóveis Maravilha, oferecemos uma experiência única de compra de automóveis, combinando qualidade, variedade e atendimento excepcional.",
       "sidebar": "tutorialSidebar"
     },
     "veiculos/create-car": {
       "id": "veiculos/create-car",
-      "title": "create-car",
-      "description": "",
+      "title": "Como Registrar um Veículo em um Sistema de Software 🚗",
+      "description": "Ao adicionar informações sobre um veículo em seu programa de software, utilize diversas opções do Markdown para uma apresentação visualmente atraente.",
       "sidebar": "tutorialSidebar"
     }
   }

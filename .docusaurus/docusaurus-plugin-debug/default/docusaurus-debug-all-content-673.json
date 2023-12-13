@@ -22,8 +22,8 @@
             {
               "unversionedId": "clientes/create-client",
               "id": "clientes/create-client",
-              "title": "create-client",
-              "description": "",
+              "title": "Como Registrar um Veículo 🚗",
+              "description": "Ao adicionar informações sobre um veículo em seu programa de software, utilize diversas opções do Markdown para uma apresentação visualmente atraente.",
               "source": "@site/docs/clientes/create-client.md",
               "sourceDirName": "clientes",
               "slug": "/clientes/create-client",
@@ -32,7 +32,10 @@
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/clientes/create-client.md",
               "tags": [],
               "version": "current",
-              "frontMatter": {},
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Clientes",
@@ -46,8 +49,8 @@
             {
               "unversionedId": "faturas/create-invoice",
               "id": "faturas/create-invoice",
-              "title": "Criar uma fatura",
-              "description": "Muito fácil criar uma fatura. Basta escolher a opção fatura, o cliente, o valor a faturar e carregar no botão emitir fatura",
+              "title": "Guia Completo para Criar Faturas 💼",
+              "description": "Ao gerar faturas em seu programa de software, explore diversas opções do Markdown para uma apresentação detalhada e organizada.",
               "source": "@site/docs/faturas/create-invoice.md",
               "sourceDirName": "faturas",
               "slug": "/faturas/create-invoice",
@@ -56,9 +59,9 @@
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/faturas/create-invoice.md",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 1,
+              "sidebarPosition": 2,
               "frontMatter": {
-                "sidebar_position": 1
+                "sidebar_position": 2
               },
               "sidebar": "tutorialSidebar",
               "previous": {
@@ -73,8 +76,8 @@
             {
               "unversionedId": "intro",
               "id": "intro",
-              "title": "Bem-vindo à Nossa Concessionária de Carros",
-              "description": "Somos a sua escolha confiável para adquirir o carro dos seus sonhos. Na Automoveis Maravilha, oferecemos uma experiência única de compra de automóveis, combinando qualidade, variedade e atendimento excepcional.",
+              "title": "Bem-vindo à **Nossa Concessionária de Carros** 🚗",
+              "description": "Somos a sua escolha confiável para adquirir o carro dos seus sonhos. Na Automóveis Maravilha, oferecemos uma experiência única de compra de automóveis, combinando qualidade, variedade e atendimento excepcional.",
               "source": "@site/docs/intro.md",
               "sourceDirName": ".",
               "slug": "/intro",
@@ -97,8 +100,8 @@
             {
               "unversionedId": "veiculos/create-car",
               "id": "veiculos/create-car",
-              "title": "create-car",
-              "description": "",
+              "title": "Como Registrar um Veículo em um Sistema de Software 🚗",
+              "description": "Ao adicionar informações sobre um veículo em seu programa de software, utilize diversas opções do Markdown para uma apresentação visualmente atraente.",
               "source": "@site/docs/veiculos/create-car.md",
               "sourceDirName": "veiculos",
               "slug": "/veiculos/create-car",
@@ -107,7 +110,10 @@
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/veiculos/create-car.md",
               "tags": [],
               "version": "current",
-              "frontMatter": {},
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Veiculos",

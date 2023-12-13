@@ -1,8 +1,8 @@
 {
   "unversionedId": "veiculos/create-car",
   "id": "veiculos/create-car",
-  "title": "create-car",
-  "description": "",
+  "title": "Como Registrar um Veículo em um Sistema de Software 🚗",
+  "description": "Ao adicionar informações sobre um veículo em seu programa de software, utilize diversas opções do Markdown para uma apresentação visualmente atraente.",
   "source": "@site/docs/veiculos/create-car.md",
   "sourceDirName": "veiculos",
   "slug": "/veiculos/create-car",
@@ -11,7 +11,10 @@
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/veiculos/create-car.md",
   "tags": [],
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Veiculos",

@@ -1,8 +1,8 @@
 {
   "unversionedId": "faturas/create-invoice",
   "id": "faturas/create-invoice",
-  "title": "Criar uma fatura",
-  "description": "Muito fácil criar uma fatura. Basta escolher a opção fatura, o cliente, o valor a faturar e carregar no botão emitir fatura",
+  "title": "Guia Completo para Criar Faturas 💼",
+  "description": "Ao gerar faturas em seu programa de software, explore diversas opções do Markdown para uma apresentação detalhada e organizada.",
   "source": "@site/docs/faturas/create-invoice.md",
   "sourceDirName": "faturas",
   "slug": "/faturas/create-invoice",
@@ -11,9 +11,9 @@
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/faturas/create-invoice.md",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 1,
+  "sidebarPosition": 2,
   "frontMatter": {
-    "sidebar_position": 1
+    "sidebar_position": 2
   },
   "sidebar": "tutorialSidebar",
   "previous": {

@@ -1,8 +1,8 @@
 {
   "unversionedId": "intro",
   "id": "intro",
-  "title": "Bem-vindo à Nossa Concessionária de Carros",
-  "description": "Somos a sua escolha confiável para adquirir o carro dos seus sonhos. Na Automoveis Maravilha, oferecemos uma experiência única de compra de automóveis, combinando qualidade, variedade e atendimento excepcional.",
+  "title": "Bem-vindo à **Nossa Concessionária de Carros** 🚗",
+  "description": "Somos a sua escolha confiável para adquirir o carro dos seus sonhos. Na Automóveis Maravilha, oferecemos uma experiência única de compra de automóveis, combinando qualidade, variedade e atendimento excepcional.",
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
   "slug": "/intro",
