@@ -194,12 +194,12 @@
       "blogSidebarTitle": "Recent posts",
       "blogPosts": [
         {
-          "id": "welcome",
+          "id": "Bemvindo",
           "metadata": {
-            "permalink": "/ADC_TP3/blog/welcome",
+            "permalink": "/ADC_TP3/blog/Bemvindo",
             "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2021-08-26-welcome/index.md",
             "source": "@site/blog/2021-08-26-welcome/index.md",
-            "title": "Welcome",
+            "title": "Bemvindo",
             "description": "Docusaurus blogging features are powered by the blog plugin.",
             "date": "2021-08-26T00:00:00.000Z",
             "formattedDate": "26 de agosto de 2021",
@@ -236,8 +236,8 @@
               }
             ],
             "frontMatter": {
-              "slug": "welcome",
-              "title": "Welcome",
+              "slug": "Bemvindo",
+              "title": "Bemvindo",
               "authors": [
                 "slorber",
                 "yangshun"
@@ -293,8 +293,8 @@
               ]
             },
             "prevItem": {
-              "title": "Welcome",
-              "permalink": "/ADC_TP3/blog/welcome"
+              "title": "Bemvindo",
+              "permalink": "/ADC_TP3/blog/Bemvindo"
             },
             "nextItem": {
               "title": "Long Blog Post",
@@ -411,7 +411,7 @@
       "blogListPaginated": [
         {
           "items": [
-            "welcome",
+            "Bemvindo",
             "mdx-blog-post",
             "long-blog-post",
             "first-blog-post"
@@ -431,13 +431,13 @@
         "/ADC_TP3/blog/tags/facebook": {
           "label": "facebook",
           "items": [
-            "welcome"
+            "Bemvindo"
           ],
           "permalink": "/ADC_TP3/blog/tags/facebook",
           "pages": [
             {
               "items": [
-                "welcome"
+                "Bemvindo"
               ],
               "metadata": {
                 "permalink": "/ADC_TP3/blog/tags/facebook",
@@ -454,14 +454,14 @@
         "/ADC_TP3/blog/tags/hello": {
           "label": "hello",
           "items": [
-            "welcome",
+            "Bemvindo",
             "long-blog-post"
           ],
           "permalink": "/ADC_TP3/blog/tags/hello",
           "pages": [
             {
               "items": [
-                "welcome",
+                "Bemvindo",
                 "long-blog-post"
               ],
               "metadata": {
@@ -479,7 +479,7 @@
         "/ADC_TP3/blog/tags/docusaurus": {
           "label": "docusaurus",
           "items": [
-            "welcome",
+            "Bemvindo",
             "mdx-blog-post",
             "long-blog-post",
             "first-blog-post"
@@ -488,7 +488,7 @@
           "pages": [
             {
               "items": [
-                "welcome",
+                "Bemvindo",
                 "mdx-blog-post",
                 "long-blog-post",
                 "first-blog-post"

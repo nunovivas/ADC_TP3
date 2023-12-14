@@ -48,6 +48,11 @@ export default [
     exact: true
   },
   {
+    path: '/ADC_TP3/blog/Bemvindo',
+    component: ComponentCreator('/ADC_TP3/blog/Bemvindo', '311'),
+    exact: true
+  },
+  {
     path: '/ADC_TP3/blog/first-blog-post',
     component: ComponentCreator('/ADC_TP3/blog/first-blog-post', '0bc'),
     exact: true
@@ -85,11 +90,6 @@ export default [
   {
     path: '/ADC_TP3/blog/tags/hola',
     component: ComponentCreator('/ADC_TP3/blog/tags/hola', '8f7'),
-    exact: true
-  },
-  {
-    path: '/ADC_TP3/blog/welcome',
-    component: ComponentCreator('/ADC_TP3/blog/welcome', '6f9'),
     exact: true
   },
   {
