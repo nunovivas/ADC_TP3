@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Como Registrar um Veículo 🚗
+# Como Registrar um Cliente  🚗
 
 Ao adicionar informações sobre um veículo em seu programa de software, utilize diversas opções do Markdown para uma apresentação visualmente atraente.
 

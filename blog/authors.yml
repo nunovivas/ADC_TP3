@@ -4,14 +4,32 @@ endi:
   url: https://github.com/endiliey
   image_url: https://github.com/endiliey.png
 
-vivas:
+yangshun:
   name: Yangshun Tay
   title: Front End Engineer @ Facebook
   url: https://github.com/yangshun
   image_url: https://github.com/yangshun.png
 
-eduardo:
-  name: Andrés Eduardo
-  title: Super casino man
-  url: https://andreseduardo.com
+slorber:
+  name: Sébastien Lorber
+  title: Docusaurus maintainer
+  url: https://sebastienlorber.com
   image_url: https://github.com/slorber.png
+
+vivas:
+  name: Nuno Vivas
+  title: Super testes
+  url: https://www.facebook.com/Vivas.Nuno
+  image_url: https://github.com/slorber.png
+
+soares:
+  name: Sophia Soares
+  title: Super descontraida!
+  url: https://sophiasoares.instagram.com
+  image_url: https://creativetoys.pt/wp-content/uploads/63220038-Squishmallows-Pikachu-Guino-25cm-1.jpg
+
+echeverry:
+  name: Andrés Echeverry
+  title: Super casino man!
+  url: https://andresecheverry.instagram.com
+  image_url: https://cdn.pixabay.com/photo/2017/07/06/18/48/superman-2478978_1280.jpg

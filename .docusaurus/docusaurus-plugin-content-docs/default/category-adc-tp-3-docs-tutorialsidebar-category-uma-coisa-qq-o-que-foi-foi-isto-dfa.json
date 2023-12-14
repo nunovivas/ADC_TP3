@@ -1,0 +1,16 @@
+{
+  "title": "Uma coisa qq o que foi foi isto",
+  "description": "Em 5 minutos ensina-se a enganar o cliente!",
+  "slug": "/category/uma-coisa-qq-o-que-foi-foi-isto",
+  "permalink": "/ADC_TP3/docs/category/uma-coisa-qq-o-que-foi-foi-isto",
+  "navigation": {
+    "previous": {
+      "title": "Como Registrar um Veículo em um Sistema de Software 🚗",
+      "permalink": "/ADC_TP3/docs/veiculos/create-car"
+    },
+    "next": {
+      "title": "Como Registrar um Veículo 🚗",
+      "permalink": "/ADC_TP3/docs/umacoisaqq/create-client"
+    }
+  }
+}

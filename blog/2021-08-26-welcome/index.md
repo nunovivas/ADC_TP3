@@ -1,7 +1,7 @@
 ---
 slug: Bemvindo
 title: Bemvindo
-authors: [Vivas, yangshun]
+authors: [vivas, soares, echeverry]
 tags: [facebook, hello, docusaurus]
 ---
 

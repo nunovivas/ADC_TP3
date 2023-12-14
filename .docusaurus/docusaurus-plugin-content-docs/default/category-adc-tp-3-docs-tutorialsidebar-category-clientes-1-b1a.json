@@ -1,0 +1,16 @@
+{
+  "title": "Clientes",
+  "description": "Em 5 minutos ensina-se a enganar o cliente!",
+  "slug": "/category/clientes-1",
+  "permalink": "/ADC_TP3/docs/category/clientes-1",
+  "navigation": {
+    "previous": {
+      "title": "Como Registrar um Veículo em um Sistema de Software 🚗",
+      "permalink": "/ADC_TP3/docs/veiculos/create-car"
+    },
+    "next": {
+      "title": "Como Registrar um Veículo 🚗",
+      "permalink": "/ADC_TP3/docs/umacoisaqq/create-client"
+    }
+  }
+}

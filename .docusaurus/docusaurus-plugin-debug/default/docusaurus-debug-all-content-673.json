@@ -22,7 +22,7 @@
             {
               "unversionedId": "clientes/create-client",
               "id": "clientes/create-client",
-              "title": "Como Registrar um Veículo 🚗",
+              "title": "Como Registrar um Cliente  🚗",
               "description": "Ao adicionar informações sobre um veículo em seu programa de software, utilize diversas opções do Markdown para uma apresentação visualmente atraente.",
               "source": "@site/docs/clientes/create-client.md",
               "sourceDirName": "clientes",
@@ -221,26 +221,34 @@
             "hasTruncateMarker": false,
             "authors": [
               {
-                "name": "Sébastien Lorber",
-                "title": "Docusaurus maintainer",
-                "url": "https://sebastienlorber.com",
+                "name": "Nuno Vivas",
+                "title": "Super testes",
+                "url": "https://www.facebook.com/Vivas.Nuno",
                 "imageURL": "https://github.com/slorber.png",
-                "key": "slorber"
+                "key": "vivas"
               },
               {
-                "name": "Yangshun Tay",
-                "title": "Front End Engineer @ Facebook",
-                "url": "https://github.com/yangshun",
-                "imageURL": "https://github.com/yangshun.png",
-                "key": "yangshun"
+                "name": "Sophia Soares",
+                "title": "Super descontraida!",
+                "url": "https://sophiasoares.instagram.com",
+                "imageURL": "https://creativetoys.pt/wp-content/uploads/63220038-Squishmallows-Pikachu-Guino-25cm-1.jpg",
+                "key": "soares"
+              },
+              {
+                "name": "Andrés Echeverry",
+                "title": "Super casino man!",
+                "url": "https://andresecheverry.instagram.com",
+                "imageURL": "https://cdn.pixabay.com/photo/2017/07/06/18/48/superman-2478978_1280.jpg",
+                "key": "echeverry"
               }
             ],
             "frontMatter": {
               "slug": "Bemvindo",
               "title": "Bemvindo",
               "authors": [
-                "slorber",
-                "yangshun"
+                "vivas",
+                "soares",
+                "echeverry"
               ],
               "tags": [
                 "facebook",
