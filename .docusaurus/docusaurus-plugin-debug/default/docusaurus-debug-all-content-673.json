@@ -22,8 +22,8 @@
             {
               "unversionedId": "clientes/create-client",
               "id": "clientes/create-client",
-              "title": "Como Registrar um Cliente  🚗",
-              "description": "Ao adicionar informações sobre um veículo em seu programa de software, utilize diversas opções do Markdown para uma apresentação visualmente atraente.",
+              "title": "Como Registrar um Cliente  👫",
+              "description": "Ao adicionar informações sobre um cliente em seu programa de software, utilize diversas opções do Markdown para uma apresentação visualmente atraente.",
               "source": "@site/docs/clientes/create-client.md",
               "sourceDirName": "clientes",
               "slug": "/clientes/create-client",
