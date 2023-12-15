@@ -2,13 +2,13 @@
 sidebar_position: 1
 ---
 
-# Como Registrar um Cliente  🚗
+# Como Registrar um Cliente  👫
 
 Ao adicionar informações sobre um cliente em seu programa de software, utilize diversas opções do Markdown para uma apresentação visualmente atraente.
 
 ## **Passo 1: Acesso ao Sistema 🌐**
 
-Certifique-se de ter acesso ao sistema de administração do software. Abra o programa e faça login usando suas credenciais.
+Certifique-se de ter acesso ao sistema de administração do software. Abra o programa e faça login, para tal ação será necessário, a disponibilização de documentos e informações pessoais
 
 ## **Passo 2: Navegação 🧭**
 
