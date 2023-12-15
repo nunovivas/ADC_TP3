@@ -12,7 +12,7 @@ Certifique-se de ter acesso ao sistema de administração do software. Abra o pr
 
 ## **Passo 2: Navegação 🧭**
 
-Dirija-se à seção de "Veículos" ou a uma categoria semelhante. Esta área normalmente é acessível pela barra de navegação principal.
+Dirija-se à seção de "Clientes". Esta área normalmente é acessível pela barra de navegação principal da nossa plataforma.
 
 ## **Passo 3: Adicionar Novo Veículo 🆕**
 
