@@ -18,15 +18,14 @@ Dirija-se à seção de "Clientes". Esta área normalmente é acessível pela ba
 
 Clique em "Adicionar Novo Cliente" ou em uma opção equivalente. Preencha os campos obrigatórios, como nome, endereço, documento de indentificação(numero deste mesmo), NIF etc.
 
-
 ## **Passo 5: Descrição 📝**
 
-Utilize formatação de texto em negrito, itálico ou até mesmo listas para fornecer uma descrição detalhada do veículo.
+Utilize formatação de texto em negrito, itálico ou até mesmo listas para fornecer uma descrição detalhada do cliente e seu veiculo que será tratado na em nossa concessionária. 
 
 **Exemplo:**
-* **Modelo:** Sedan
-* **Cor:** Azul metálico
-* **Extras:** Ar condicionado, vidros elétricos
+* **Nome:** Sérgio
+* **Modelo do carro:** Sedan
+* **Extras:** preferencias...
 
 ## **Passo 6: Status 🛠️**
 
