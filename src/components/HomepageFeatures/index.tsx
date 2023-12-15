@@ -10,17 +10,17 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Fácil de utilizar',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'A melhor Manutenção para seu veiculo',
+    Svg: require('@site/static/img/repair.svg').default,
     description: (
       <>
-        Usamos o docusaurus para dar suporte à nossa empresa.
+      Temos profissionais muito qualificados para dar manutençao em seu automovel.
       </>
     ),
   },
   {
     title: 'Foco no que é importante - o dinheiro',
-    Svg: require('@site/static/img/dollar-sign.svg').default,
+    Svg: require('@site/static/img/money.svg').default,
     description: (
       <>
         Na nossa empresa, focamo-nos no que é importante, vender os nossos carros que não prestam para nada, pelo preço mais caro possivel.
@@ -28,11 +28,11 @@ const FeatureList: FeatureItem[] = [
     ),
   },
   {
-    title: 'Powered by Gasolina',
-    Svg: require('@site/static/img/gasoline.svg').default,
+    title: '100% Seguro',
+    Svg: require('@site/static/img/travel.svg').default,
     description: (
       <>
-        De forma unica, os nossos automoveis usam um metodo inovador e 100% amigo do ambiente: A gasolina.
+        Viaje sempre com seu veiculo revisado e seguro.
       </>
     ),
   },
