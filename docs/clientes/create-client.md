@@ -18,9 +18,6 @@ Dirija-se à seção de "Clientes". Esta área normalmente é acessível pela ba
 
 Clique em "Adicionar Novo Cliente" ou em uma opção equivalente. Preencha os campos obrigatórios, como nome, endereço, documento de indentificação(numero deste mesmo), NIF etc.
 
-## **Passo 4: Detalhes Visuais 📸**
-
-Inclua imagens do veículo para uma visualização mais detalhada. Use a sintaxe Markdown `![Alt Text](url_da_imagem)` para incorporar imagens.
 
 ## **Passo 5: Descrição 📝**
 
