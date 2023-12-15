@@ -38,7 +38,7 @@ Indique o status do cliente na empresa. Essa área pode ser melhor aproveitada p
 
 ## **Passo 7: Mapa de Localização 🗺️**
 
-Se aplicável, inclua um mapa para mostrar a localização atual ou histórico do veículo.
+Se aplicável, inclua um mapa para mostrar a localização da morada local do cliente, presente no sistema, e as concessionarias mais próximas. 
 
 **Exemplo:**
 ```markdown
