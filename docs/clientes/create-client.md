@@ -14,7 +14,7 @@ Certifique-se de ter acesso ao sistema de administração do software. Abra o pr
 
 Dirija-se à seção de "Clientes". Esta área normalmente é acessível pela barra de navegação principal da nossa plataforma.
 
-## **Passo 3: Adicionar Novo Cliente 🆕**
+## **Passo 3: Adicionar Novo Cliente 🪪**
 
 Clique em "Adicionar Novo Cliente" ou em uma opção equivalente. Preencha os campos obrigatórios, como nome, endereço, documento de indentificação(numero deste mesmo), NIF etc.
 
@@ -27,13 +27,14 @@ Utilize formatação de texto em negrito, itálico ou até mesmo listas para for
 * **Modelo do carro:** Sedan
 * **Extras:** preferencias...
 
-## **Passo 6: Status 🛠️**
+## **Passo 6: Status 💵**
 
-Indique o status do veículo (ativo, em manutenção, vendido, etc.). Use emojis para uma representação visual.
+Indique o status do cliente na empresa. Essa área pode ser melhor aproveitada para ter controle na questão dos pagamentos do cliente a empresa.
 
 **Exemplo:**
-- Status: 🟢 Ativo
-- Última Manutenção: 📅 01/2023
+- Status: 🟢 Pago
+- Último Pagamento: 🗓️ 11/2023
+- Proximo Pagamento Previsto: 🗓️ 12/2023
 
 ## **Passo 7: Mapa de Localização 🗺️**
 
