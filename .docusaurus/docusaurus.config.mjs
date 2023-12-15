@@ -27,7 +27,7 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "/Users/nunovivas/Documents/Universidade/ADC/TP3/sidebars.js",
+          "sidebarPath": "/Users/ShopiaSoares/ADC_TP3/sidebars.js",
           "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
         },
         "blog": {
@@ -35,7 +35,7 @@ export default {
           "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
         },
         "theme": {
-          "customCss": "/Users/nunovivas/Documents/Universidade/ADC/TP3/src/css/custom.css"
+          "customCss": "/Users/ShopiaSoares/ADC_TP3/src/css/custom.css"
         }
       }
     ]
