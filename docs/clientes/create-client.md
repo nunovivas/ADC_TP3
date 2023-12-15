@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Como Registrar um Cliente  🚗
 
-Ao adicionar informações sobre um veículo em seu programa de software, utilize diversas opções do Markdown para uma apresentação visualmente atraente.
+Ao adicionar informações sobre um cliente em seu programa de software, utilize diversas opções do Markdown para uma apresentação visualmente atraente.
 
 ## **Passo 1: Acesso ao Sistema 🌐**
 
