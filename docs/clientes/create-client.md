@@ -14,9 +14,9 @@ Certifique-se de ter acesso ao sistema de administração do software. Abra o pr
 
 Dirija-se à seção de "Clientes". Esta área normalmente é acessível pela barra de navegação principal da nossa plataforma.
 
-## **Passo 3: Adicionar Novo Veículo 🆕**
+## **Passo 3: Adicionar Novo Cliente 🆕**
 
-Clique em "Adicionar Novo Veículo" ou em uma opção equivalente. Preencha os campos obrigatórios, como modelo, ano e número de chassi.
+Clique em "Adicionar Novo Cliente" ou em uma opção equivalente. Preencha os campos obrigatórios, como nome, endereço, documento de indentificação(numero deste mesmo), NIF etc.
 
 ## **Passo 4: Detalhes Visuais 📸**
 
