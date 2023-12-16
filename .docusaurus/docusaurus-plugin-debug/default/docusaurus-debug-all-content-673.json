@@ -369,11 +369,11 @@
             "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2019-05-28-first-blog-post.md",
             "source": "@site/blog/2019-05-28-first-blog-post.md",
             "title": "First Blog Post",
-            "description": "",
+            "description": "Sejam bem-vindos!",
             "date": "2019-05-28T00:00:00.000Z",
             "formattedDate": "28 de maio de 2019",
             "tags": [],
-            "readingTime": 0,
+            "readingTime": 0.44,
             "hasTruncateMarker": false,
             "authors": [
               {
@@ -397,7 +397,7 @@
               "permalink": "/ADC_TP3/blog/long-blog-post"
             }
           },
-          "content": ""
+          "content": "**Sejam bem-vindos!** \n   \nÉ com muita felicidade que nós alunos do primeiro semestre de LESTI, da disciplina de Ambientes de Desenvolvimento\nColaborativo, podemos vos apresentar o primeiro post do nosso blog, sobre o nosso trabalho \"Automoveis Maravilha\". \nAo longo desse Blog, estaremos trazendo para vocês espectadores, como foi todo esse nosso processo de construção do trabalho e nosso desenvolvimento em grupo, juntamente com a ajuda e os fundamentos do professor que licência esta \nmatéria, e qual é o nosso objetivo com esse projeto sobre a nossa concessionária \"Automovéis Maravilha\""
         }
       ],
       "blogListPaginated": [
