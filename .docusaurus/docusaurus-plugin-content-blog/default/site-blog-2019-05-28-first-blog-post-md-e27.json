@@ -3,22 +3,28 @@
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2019-05-28-first-blog-post.md",
   "source": "@site/blog/2019-05-28-first-blog-post.md",
   "title": "First Blog Post",
-  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet",
+  "description": "",
   "date": "2019-05-28T00:00:00.000Z",
   "formattedDate": "28 de maio de 2019",
   "tags": [],
-  "readingTime": 0.12,
+  "readingTime": 0,
   "hasTruncateMarker": false,
-  "authors": [],
+  "authors": [
+    {
+      "name": "Sophia Soares",
+      "url": "https://sophiasoares.instagram.com"
+    }
+  ],
   "frontMatter": {
     "slug": "first-blog-post",
     "title": "First Blog Post",
-    "soares": {
-      "name": "Sophia Soares",
-      "title": "Aluna do Primeiro Semestre de LESTI",
-      "url": "https://sophiasoares.instagram.com",
-      "image_url": "https://creativetoys.pt/wp-content/uploads/63220038-Squishmallows-Pikachu-Guino-25cm-1.jpg"
-    }
+    "authors": [
+      {
+        "name": "Sophia Soares",
+        "url": "https://sophiasoares.instagram.com"
+      }
+    ],
+    "image_url": "https://creativetoys.pt/wp-content/uploads/63220038-Squishmallows-Pikachu-Guino-25cm-1.jpg"
   },
   "prevItem": {
     "title": "Long Blog Post",
