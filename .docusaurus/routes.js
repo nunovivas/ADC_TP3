@@ -74,7 +74,7 @@ export default [
   },
   {
     path: '/ADC_TP3/blog/tags/docusaurus',
-    component: ComponentCreator('/ADC_TP3/blog/tags/docusaurus', 'b0e'),
+    component: ComponentCreator('/ADC_TP3/blog/tags/docusaurus', '5a1'),
     exact: true
   },
   {
@@ -85,11 +85,6 @@ export default [
   {
     path: '/ADC_TP3/blog/tags/hello',
     component: ComponentCreator('/ADC_TP3/blog/tags/hello', '711'),
-    exact: true
-  },
-  {
-    path: '/ADC_TP3/blog/tags/hola',
-    component: ComponentCreator('/ADC_TP3/blog/tags/hola', 'b46'),
     exact: true
   },
   {
