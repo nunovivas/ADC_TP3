@@ -23,7 +23,7 @@
         "items": [
           {
             "type": "link",
-            "label": "Como Registrar um Cliente  🚗",
+            "label": "Como Registrar um Cliente  👫",
             "href": "/ADC_TP3/docs/clientes/create-client",
             "docId": "clientes/create-client"
           }
@@ -65,8 +65,8 @@
   "docs": {
     "clientes/create-client": {
       "id": "clientes/create-client",
-      "title": "Como Registrar um Cliente  🚗",
-      "description": "Ao adicionar informações sobre um veículo em seu programa de software, utilize diversas opções do Markdown para uma apresentação visualmente atraente.",
+      "title": "Como Registrar um Cliente  👫",
+      "description": "Ao adicionar informações sobre um cliente em seu programa de software, utilize diversas opções do Markdown para uma apresentação visualmente atraente.",
       "sidebar": "tutorialSidebar"
     },
     "faturas/create-invoice": {
