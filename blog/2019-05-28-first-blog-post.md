@@ -2,11 +2,14 @@
 slug: first-blog-post
 title: First Blog Post
 authors:
-  name: Gao Wei
-  title: Docusaurus Core Team
-  url: https://github.com/wgao19
-  image_url: https://github.com/wgao19.png
-tags: [hola, docusaurus]
+  - name: Sophia Soares
+    url: https://sophiasoares.instagram.com
+image_url: >-
+  https://creativetoys.pt/wp-content/uploads/63220038-Squishmallows-Pikachu-Guino-25cm-1.jpg
 ---
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet
+**Sejam bem-vindos!** 
+   
+É com muita felicidade que nós alunos do primeiro semestre de LESTI, da disciplina de Ambientes de Desenvolvimento
+Colaborativo, podemos vos apresentar o primeiro post do nosso blog, sobre o nosso trabalho "Automoveis Maravilha". 
+Ao longo desse Blog, estaremos trazendo para vocês espectadores, como foi todo esse nosso processo de construção do trabalho e nosso desenvolvimento em grupo, juntamente com a ajuda e os fundamentos do professor que licência esta 
+matéria, e qual é o nosso objetivo com esse projeto sobre a nossa concessionária "Automovéis Maravilha"
