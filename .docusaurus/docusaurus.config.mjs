@@ -27,7 +27,6 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "/Users/nunovivas/Documents/Universidade/ADC/newTP3/sidebars.js",
           "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
         },
         "blog": {

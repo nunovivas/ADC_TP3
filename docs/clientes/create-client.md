@@ -2,46 +2,43 @@
 sidebar_position: 1
 ---
 
-# Como Registrar um Cliente  🚗
+# Como Registrar um Cliente  👫
 
-Ao adicionar informações sobre um veículo em seu programa de software, utilize diversas opções do Markdown para uma apresentação visualmente atraente.
+Ao adicionar informações sobre um cliente em seu programa de software, utilize diversas opções do Markdown para uma apresentação visualmente atraente.
 
 ## **Passo 1: Acesso ao Sistema 🌐**
 
-Certifique-se de ter acesso ao sistema de administração do software. Abra o programa e faça login usando suas credenciais.
+Certifique-se de ter acesso ao sistema de administração do software. Abra o programa e faça login, para tal ação será necessário, a disponibilização de documentos e informações pessoais
 
 ## **Passo 2: Navegação 🧭**
 
-Dirija-se à seção de "Veículos" ou a uma categoria semelhante. Esta área normalmente é acessível pela barra de navegação principal.
+Dirija-se à seção de "Clientes". Esta área normalmente é acessível pela barra de navegação principal da nossa plataforma.
 
-## **Passo 3: Adicionar Novo Veículo 🆕**
+## **Passo 3: Adicionar Novo Cliente 🪪**
 
-Clique em "Adicionar Novo Veículo" ou em uma opção equivalente. Preencha os campos obrigatórios, como modelo, ano e número de chassi.
-
-## **Passo 4: Detalhes Visuais 📸**
-
-Inclua imagens do veículo para uma visualização mais detalhada. Use a sintaxe Markdown `![Alt Text](url_da_imagem)` para incorporar imagens.
+Clique em "Adicionar Novo Cliente" ou em uma opção equivalente. Preencha os campos obrigatórios, como nome, endereço, documento de indentificação(numero deste mesmo), NIF etc.
 
 ## **Passo 5: Descrição 📝**
 
-Utilize formatação de texto em negrito, itálico ou até mesmo listas para fornecer uma descrição detalhada do veículo.
+Utilize formatação de texto em negrito, itálico ou até mesmo listas para fornecer uma descrição detalhada do cliente e seu veiculo que será tratado na em nossa concessionária. 
 
 **Exemplo:**
-* **Modelo:** Sedan
-* **Cor:** Azul metálico
-* **Extras:** Ar condicionado, vidros elétricos
+* **Nome:** Sérgio
+* **Modelo do carro:** Sedan
+* **Extras:** preferencias...
 
-## **Passo 6: Status 🛠️**
+## **Passo 6: Status 💵**
 
-Indique o status do veículo (ativo, em manutenção, vendido, etc.). Use emojis para uma representação visual.
+Indique o status do cliente na empresa. Essa área pode ser melhor aproveitada para ter controle na questão dos pagamentos do cliente a empresa.
 
 **Exemplo:**
-- Status: 🟢 Ativo
-- Última Manutenção: 📅 01/2023
+- Status: 🟢 Pago
+- Último Pagamento: 🗓️ 11/2023
+- Proximo Pagamento Previsto: 🗓️ 12/2023
 
 ## **Passo 7: Mapa de Localização 🗺️**
 
-Se aplicável, inclua um mapa para mostrar a localização atual ou histórico do veículo.
+Se aplicável, inclua um mapa para mostrar a localização da morada local do cliente, presente no sistema, e as concessionarias mais próximas. 
 
 **Exemplo:**
 ```markdown

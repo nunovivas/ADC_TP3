@@ -15,15 +15,12 @@
           "editUrlLocalized": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/i18n/pt/docusaurus-plugin-content-docs/current",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "/Users/nunovivas/Documents/Universidade/ADC/newTP3/sidebars.js",
-          "contentPath": "/Users/nunovivas/Documents/Universidade/ADC/newTP3/docs",
-          "contentPathLocalized": "/Users/nunovivas/Documents/Universidade/ADC/newTP3/i18n/pt/docusaurus-plugin-content-docs/current",
           "docs": [
             {
               "unversionedId": "clientes/create-client",
               "id": "clientes/create-client",
-              "title": "Como Registrar um Cliente  🚗",
-              "description": "Ao adicionar informações sobre um veículo em seu programa de software, utilize diversas opções do Markdown para uma apresentação visualmente atraente.",
+              "title": "Como Registrar um Cliente  👫",
+              "description": "Ao adicionar informações sobre um cliente em seu programa de software, utilize diversas opções do Markdown para uma apresentação visualmente atraente.",
               "source": "@site/docs/clientes/create-client.md",
               "sourceDirName": "clientes",
               "slug": "/clientes/create-client",
@@ -222,21 +219,21 @@
             "authors": [
               {
                 "name": "Nuno Vivas",
-                "title": "Super testes",
+                "title": "Aluno do Primeiro Semestre de LESTI",
                 "url": "https://www.facebook.com/Vivas.Nuno",
                 "imageURL": "https://github.com/slorber.png",
                 "key": "vivas"
               },
               {
                 "name": "Sophia Soares",
-                "title": "Super descontraida!",
+                "title": "Aluna do Primeiro Semestre de LESTI",
                 "url": "https://sophiasoares.instagram.com",
                 "imageURL": "https://creativetoys.pt/wp-content/uploads/63220038-Squishmallows-Pikachu-Guino-25cm-1.jpg",
                 "key": "soares"
               },
               {
                 "name": "Andrés Echeverry",
-                "title": "Super casino man!",
+                "title": "Aluno do Primeiro Semestre de LESTI",
                 "url": "https://andresecheverry.instagram.com",
                 "imageURL": "https://cdn.pixabay.com/photo/2017/07/06/18/48/superman-2478978_1280.jpg",
                 "key": "echeverry"
@@ -318,7 +315,7 @@
             "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2019-05-29-long-blog-post.md",
             "source": "@site/blog/2019-05-29-long-blog-post.md",
             "title": "Long Blog Post",
-            "description": "This is the summary of a very long blog post,",
+            "description": "- Inicio do Projeto",
             "date": "2019-05-29T00:00:00.000Z",
             "formattedDate": "29 de maio de 2019",
             "tags": [
@@ -331,8 +328,8 @@
                 "permalink": "/ADC_TP3/blog/tags/docusaurus"
               }
             ],
-            "readingTime": 2.05,
-            "hasTruncateMarker": true,
+            "readingTime": 1.88,
+            "hasTruncateMarker": false,
             "authors": [
               {
                 "name": "Endilie Yacop Sucipto",
@@ -360,7 +357,7 @@
               "permalink": "/ADC_TP3/blog/first-blog-post"
             }
           },
-          "content": "This is the summary of a very long blog post,\n\nUse a `<!--` `truncate` `-->` comment to limit blog post size in the list view.\n\n<!--truncate-->\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet"
+          "content": "<!--esse post de blog deve apresentar mais funcionalidades do MarkDown e ser dividido em um texto de 3 partes, assim como o próprio projeto-->\n\n# *Automóveis Maravilha*\n<!--Aqui pode começar, introduzindo sobre as partes mais iniciais de forma breve, como o jira,biggant e o trello -->\n##  - Inicio do Projeto\n\nTudo começou, quando aprendemos a parte mais organizacional do porjeto, utlizando ferramentas como o \"jira\" junto ao \"Biggant\" e logo em seguida passamos para o [Trello](https://trello.com/?&aceid=&adposition=&adgroup=142052239375&campaign=18422680946&creative=666240335175&device=c&keyword=trello&matchtype=e&network=g&placement=&ds_kids=p73319094492&ds_e=GOOGLE&ds_eid=700000001557344&ds_e1=GOOGLE&gad_source=1&gclid=Cj0KCQiAsvWrBhC0ARIsAO4E6f8I0g0BcCCfGYX_RsCPL2WVGBVTIDY0COnVKlz_3Dgdt6lyP8-jC54aAsH9EALw_wcB&gclsrc=aw.ds), lá trabalhamos com as **User Stories**, para poder fazer **Backlogs** e organizar os supostos **Sprints** do trabalho\n\n## - Formatação do Projeto \n<!--Ja nesta parte foquemos mais na segunda etapa do projeto,git,comando, sphinx -->\nJá para esta segunda etapa do nosso projeto, a gente focou mas ná parte formatação e docuementação das nossas atividades. Para fazer isso da maneira mais qualificada, utilizamos a ferramenta do [GitHub](https://github.com/), onde nela conseguimos adicionar, assim como no trello, todos os participantes/autores do projeto, assim podemos ver tudo aquilo que está sendo desenvolvido, monitorando o processo de ajuste de cada um e assim otimizando a criação do projeto.\n\n    Para ficar mais otimizado seguimos certos passos para poder criar as partes do nosso projeto:\n    - clonamos o repositorio remoto em nossa maquina\n    - criamos branchs proprias (a parte da branch principal \"main\")\n    - fazemos modificações necessárias: git add . ; git commit -m \" \"; git push\n    - por fim, para que a informação que modificamos em nossa branch local seja atualizada com a branch main, damos um pull e posteriormente,caso tudo esteja correto, damos um merge, e assim toda a informação modificada é passada para \"main\".\n\nPosteriormente, finalizamos essa parte criando uma documentação, em **Sphinx**, correlacionada ao projeto. \n\n## - Finalização *(Criação de um site)*  \n<!-- Agora para essa parte é so falarmos sobre o docussauros -->\nPor fim, para que possamos finalizar esse projeto, nada menos justo que criarmos um site para ele, assim ele poderá ser visualizado por outras pessoas e ganhar um alcance maior. Logo é para isso que estamos utilizando a plataforma do **Docussauros**, para que podemos criar uma interface da nossa concessionária utilizando **Markdown**, **Git**, e conhecimento adquirido ao longo do semestre para que tal trabalho possa ser finalizado\n\nClique para poder vizualizar a nossa página do docussauros:\n     [http://localhost:3000/ADC_TP3/](http://localhost:3000/ADC_TP3/)"
         },
         {
           "id": "first-blog-post",
@@ -369,51 +366,35 @@
             "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2019-05-28-first-blog-post.md",
             "source": "@site/blog/2019-05-28-first-blog-post.md",
             "title": "First Blog Post",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet",
+            "description": "Sejam bem-vindos!",
             "date": "2019-05-28T00:00:00.000Z",
             "formattedDate": "28 de maio de 2019",
-            "tags": [
-              {
-                "label": "hola",
-                "permalink": "/ADC_TP3/blog/tags/hola"
-              },
-              {
-                "label": "docusaurus",
-                "permalink": "/ADC_TP3/blog/tags/docusaurus"
-              }
-            ],
-            "readingTime": 0.12,
+            "tags": [],
+            "readingTime": 0.44,
             "hasTruncateMarker": false,
             "authors": [
               {
-                "name": "Gao Wei",
-                "title": "Docusaurus Core Team",
-                "url": "https://github.com/wgao19",
-                "image_url": "https://github.com/wgao19.png",
-                "imageURL": "https://github.com/wgao19.png"
+                "name": "Sophia Soares",
+                "url": "https://sophiasoares.instagram.com"
               }
             ],
             "frontMatter": {
               "slug": "first-blog-post",
               "title": "First Blog Post",
-              "authors": {
-                "name": "Gao Wei",
-                "title": "Docusaurus Core Team",
-                "url": "https://github.com/wgao19",
-                "image_url": "https://github.com/wgao19.png",
-                "imageURL": "https://github.com/wgao19.png"
-              },
-              "tags": [
-                "hola",
-                "docusaurus"
-              ]
+              "authors": [
+                {
+                  "name": "Sophia Soares",
+                  "url": "https://sophiasoares.instagram.com"
+                }
+              ],
+              "image_url": "https://creativetoys.pt/wp-content/uploads/63220038-Squishmallows-Pikachu-Guino-25cm-1.jpg"
             },
             "prevItem": {
               "title": "Long Blog Post",
               "permalink": "/ADC_TP3/blog/long-blog-post"
             }
           },
-          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet"
+          "content": "**Sejam bem-vindos!** \n   \nÉ com muita felicidade que nós alunos do primeiro semestre de LESTI, da disciplina de Ambientes de Desenvolvimento\nColaborativo, podemos vos apresentar o primeiro post do nosso blog, sobre o nosso trabalho \"Automoveis Maravilha\". \nAo longo desse Blog, estaremos trazendo para vocês espectadores, como foi todo esse nosso processo de construção do trabalho e nosso desenvolvimento em grupo, juntamente com a ajuda e os fundamentos do professor que licência esta \nmatéria, e qual é o nosso objetivo com esse projeto sobre a nossa concessionária \"Automovéis Maravilha\""
         }
       ],
       "blogListPaginated": [
@@ -489,8 +470,7 @@
           "items": [
             "Bemvindo",
             "mdx-blog-post",
-            "long-blog-post",
-            "first-blog-post"
+            "long-blog-post"
           ],
           "permalink": "/ADC_TP3/blog/tags/docusaurus",
           "pages": [
@@ -498,38 +478,14 @@
               "items": [
                 "Bemvindo",
                 "mdx-blog-post",
-                "long-blog-post",
-                "first-blog-post"
+                "long-blog-post"
               ],
               "metadata": {
                 "permalink": "/ADC_TP3/blog/tags/docusaurus",
                 "page": 1,
                 "postsPerPage": 10,
                 "totalPages": 1,
-                "totalCount": 4,
-                "blogDescription": "Blog",
-                "blogTitle": "Blog"
-              }
-            }
-          ]
-        },
-        "/ADC_TP3/blog/tags/hola": {
-          "label": "hola",
-          "items": [
-            "first-blog-post"
-          ],
-          "permalink": "/ADC_TP3/blog/tags/hola",
-          "pages": [
-            {
-              "items": [
-                "first-blog-post"
-              ],
-              "metadata": {
-                "permalink": "/ADC_TP3/blog/tags/hola",
-                "page": 1,
-                "postsPerPage": 10,
-                "totalPages": 1,
-                "totalCount": 1,
+                "totalCount": 3,
                 "blogDescription": "Blog",
                 "blogTitle": "Blog"
               }

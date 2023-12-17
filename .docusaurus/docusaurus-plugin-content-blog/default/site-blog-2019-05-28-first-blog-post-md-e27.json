@@ -3,44 +3,28 @@
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2019-05-28-first-blog-post.md",
   "source": "@site/blog/2019-05-28-first-blog-post.md",
   "title": "First Blog Post",
-  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet",
+  "description": "Sejam bem-vindos!",
   "date": "2019-05-28T00:00:00.000Z",
   "formattedDate": "28 de maio de 2019",
-  "tags": [
-    {
-      "label": "hola",
-      "permalink": "/ADC_TP3/blog/tags/hola"
-    },
-    {
-      "label": "docusaurus",
-      "permalink": "/ADC_TP3/blog/tags/docusaurus"
-    }
-  ],
-  "readingTime": 0.12,
+  "tags": [],
+  "readingTime": 0.44,
   "hasTruncateMarker": false,
   "authors": [
     {
-      "name": "Gao Wei",
-      "title": "Docusaurus Core Team",
-      "url": "https://github.com/wgao19",
-      "image_url": "https://github.com/wgao19.png",
-      "imageURL": "https://github.com/wgao19.png"
+      "name": "Sophia Soares",
+      "url": "https://sophiasoares.instagram.com"
     }
   ],
   "frontMatter": {
     "slug": "first-blog-post",
     "title": "First Blog Post",
-    "authors": {
-      "name": "Gao Wei",
-      "title": "Docusaurus Core Team",
-      "url": "https://github.com/wgao19",
-      "image_url": "https://github.com/wgao19.png",
-      "imageURL": "https://github.com/wgao19.png"
-    },
-    "tags": [
-      "hola",
-      "docusaurus"
-    ]
+    "authors": [
+      {
+        "name": "Sophia Soares",
+        "url": "https://sophiasoares.instagram.com"
+      }
+    ],
+    "image_url": "https://creativetoys.pt/wp-content/uploads/63220038-Squishmallows-Pikachu-Guino-25cm-1.jpg"
   },
   "prevItem": {
     "title": "Long Blog Post",
