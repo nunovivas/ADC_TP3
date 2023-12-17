@@ -6,7 +6,7 @@
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/ADC_TP3/blog"/>
     <subtitle>Automoveis Maravilha Blog</subtitle>
-    <icon>https://github.com/ADC_TP3/img/favicon.ico</icon>
+    <icon>https://github.com/ADC_TP3/img/bmw-logo-svgrepo-com.svg</icon>
     <entry>
         <title type="html"><![CDATA[Bemvindo]]></title>
         <id>https://github.com/ADC_TP3/blog/Bemvindo</id>
