@@ -15,9 +15,6 @@
           "editUrlLocalized": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/i18n/pt/docusaurus-plugin-content-docs/current",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "/Users/ShopiaSoares/ADC_TP3/sidebars.js",
-          "contentPath": "/Users/ShopiaSoares/ADC_TP3/docs",
-          "contentPathLocalized": "/Users/ShopiaSoares/ADC_TP3/i18n/pt/docusaurus-plugin-content-docs/current",
           "docs": [
             {
               "unversionedId": "clientes/create-client",

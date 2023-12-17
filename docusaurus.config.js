@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Automoveis Maravilha',
   tagline: 'Para si e para a sua filha',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/bmw-logo-svgrepo-com.svg',
 
   // Set the production url of your site here
   url: 'https://github.com',
@@ -68,7 +68,7 @@ const config = {
         title: 'Automóveis Maravilha',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/bmw-logo-svgrepo-com.svg',
         },
         items: [
           {

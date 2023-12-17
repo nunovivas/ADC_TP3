@@ -6,7 +6,7 @@
 export default {
   "title": "Automoveis Maravilha",
   "tagline": "Para si e para a sua filha",
-  "favicon": "img/favicon.ico",
+  "favicon": "img/bmw-logo-svgrepo-com.svg",
   "url": "https://github.com",
   "baseUrl": "/ADC_TP3/",
   "organizationName": "UALG",
@@ -27,7 +27,6 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "/Users/ShopiaSoares/ADC_TP3/sidebars.js",
           "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
         },
         "blog": {
@@ -35,7 +34,7 @@ export default {
           "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
         },
         "theme": {
-          "customCss": "/Users/ShopiaSoares/ADC_TP3/src/css/custom.css"
+          "customCss": "/Users/nunovivas/Documents/Universidade/ADC/newTP3/src/css/custom.css"
         }
       }
     ]
@@ -46,7 +45,7 @@ export default {
       "title": "Automóveis Maravilha",
       "logo": {
         "alt": "My Site Logo",
-        "src": "img/logo.svg"
+        "src": "img/bmw-logo-svgrepo-com.svg"
       },
       "items": [
         {
